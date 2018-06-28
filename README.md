@@ -14,6 +14,5 @@ pusher.cluster=<CLUSTER>
 # Run server
 
 ```
-cd server
-node index.js
+node server/index.js
 ```
