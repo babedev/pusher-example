@@ -1,5 +1,7 @@
-# pusher-example
-Pusher example for Android
+# Pusher example for Android
+Demonstration how to use Pusher on Android platform.
+
+This project consists of 1 `Application` and 2 `Activity`. Each `Activity` will subscribe message event from `Application`.
 
 # How to build
 Add Pusher configuration in local.properties
