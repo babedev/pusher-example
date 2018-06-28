@@ -1,3 +1,5 @@
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.2.50-blue.svg)](http://kotlinlang.org)
+
 # Pusher example for Android
 Demonstration how to use [Pusher](https://pusher.com/) on Android platform.
 
@@ -18,3 +20,7 @@ pusher.cluster=<CLUSTER>
 ```
 node server/index.js
 ```
+
+# Dependencies
+1. [Pusher](https://github.com/pusher/pusher-websocket-java)
+2. [RxJava](https://github.com/ReactiveX/RxJava)
